@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "9260d642ae3bbddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7cfc9d0924fd257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0c00d831de5d899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✱0 inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "✱0 inbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e7eb3572d088c76",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e2fcf340151dce7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7d981caa755ba152",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "79926167e23418ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b6be09b9ddcef0dd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "✱0 inbox.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a0c00d831de5d899",
+  "lastOpenFiles": [
+    "__/_1 daily note/2025-06-19.md"
+  ]
+}

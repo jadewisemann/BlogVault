@@ -1,0 +1,140 @@
+/* VSCode Light Theme - 헤딩 색상 스니펫 */
+/* 이 스니펫을 별도로 켜고 끌 수 있습니다 */
+
+.theme-light {
+  --h1-color: oklch(55% 0.18 360 );   /* #155f87 - 진한 파란색 */
+  --h2-color: oklch(55% 0.18 320);    /* #d75f00 - 주황색 */
+  --h3-color: oklch(55% 0.18 280);   /* #008787 - 틸색 */
+  --h4-color: oklch(55% 0.18 240);    /* #8700af - 보라색 */
+  --h5-color: oklch(55% 0.18 200);    /* #d70087 - 핑크색 */
+  --h6-color: oklch(55% 0.18 160);    /* #005f87 - 네이비 블루 */
+}
+/* 에디터 뷰에서 헤딩 색상 적용 */
+.markdown-source-view.mod-cm6 .cm-header-1,
+.cm-header-1 {
+  color: var(--h1-color) !important;
+  font-weight: 700;
+}
+
+.markdown-source-view.mod-cm6 .cm-header-2,
+.cm-header-2 {
+  color: var(--h2-color) !important;
+  font-weight: 650;
+}
+
+.markdown-source-view.mod-cm6 .cm-header-3,
+.cm-header-3 {
+  color: var(--h3-color) !important;
+  font-weight: 600;
+}
+
+.markdown-source-view.mod-cm6 .cm-header-4,
+.cm-header-4 {
+  color: var(--h4-color) !important;
+  font-weight: 550;
+}
+
+.markdown-source-view.mod-cm6 .cm-header-5,
+.cm-header-5 {
+  color: var(--h5-color) !important;
+  font-weight: 550;
+}
+
+.markdown-source-view.mod-cm6 .cm-header-6,
+.cm-header-6 {
+  color: var(--h6-color) !important;
+  font-weight: 500;
+}
+
+/* 읽기 뷰에서 헤딩 색상 적용 */
+.markdown-rendered h1 {
+  color: var(--h1-color) !important;
+  font-weight: 700;
+}
+
+.markdown-rendered h2 {
+  color: var(--h2-color) !important;
+  font-weight: 650;
+}
+
+.markdown-rendered h3 {
+  color: var(--h3-color) !important;
+  font-weight: 600;
+}
+
+.markdown-rendered h4 {
+  color: var(--h4-color) !important;
+  font-weight: 550;
+}
+
+.markdown-rendered h5 {
+  color: var(--h5-color) !important;
+  font-weight: 550;
+}
+
+.markdown-rendered h6 {
+  color: var(--h6-color) !important;
+  font-weight: 500;
+}
+
+/* 헤딩 포맷팅 마크 색상 (에디터에서 # 기호) */
+.cm-formatting-header-1 {
+  color: var(--h1-color) !important;
+  opacity: 0.7;
+}
+
+.cm-formatting-header-2 {
+  color: var(--h2-color) !important;
+  opacity: 0.7;
+}
+
+.cm-formatting-header-3 {
+  color: var(--h3-color) !important;
+  opacity: 0.7;
+}
+
+.cm-formatting-header-4 {
+  color: var(--h4-color) !important;
+  opacity: 0.7;
+}
+
+.cm-formatting-header-5 {
+  color: var(--h5-color) !important;
+  opacity: 0.7;
+}
+
+.cm-formatting-header-6 {
+  color: var(--h6-color) !important;
+  opacity: 0.7;
+}
+
+/* 아웃라인/목차에서도 같은 색상 적용 */
+.outline .tree-item-self .tree-item-inner[data-heading="1"] {
+  color: var(--h1-color) !important;
+  font-weight: 700;
+}
+
+.outline .tree-item-self .tree-item-inner[data-heading="2"] {
+  color: var(--h2-color) !important;
+  font-weight: 650;
+}
+
+.outline .tree-item-self .tree-item-inner[data-heading="3"] {
+  color: var(--h3-color) !important;
+  font-weight: 600;
+}
+
+.outline .tree-item-self .tree-item-inner[data-heading="4"] {
+  color: var(--h4-color) !important;
+  font-weight: 550;
+}
+
+.outline .tree-item-self .tree-item-inner[data-heading="5"] {
+  color: var(--h5-color) !important;
+  font-weight: 550;
+}
+
+.outline .tree-item-self .tree-item-inner[data-heading="6"] {
+  color: var(--h6-color) !important;
+  font-weight: 500;
+}

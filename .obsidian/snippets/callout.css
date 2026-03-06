@@ -1,0 +1,20 @@
+
+.callout {
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  background-color: #eaeaea ;
+}
+
+.callout > .callout-content > * {
+  margin: 0!important;
+}
+.callout-title {
+  padding-bottom: .4rem;
+}
+.callout-title > .callout-icon {
+  /* display: none; */
+}
+
+.callout-title > .callout-title-inner {
+  color: #0f172b
+}

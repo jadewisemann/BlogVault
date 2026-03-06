@@ -1,0 +1,23 @@
+
+.cm-gutterElement {
+  color: #b37c75;
+  opacity: .4;
+  font-weight: 800;
+  &.cm-active {
+    opacity: 1;
+    color: #bb3e3e;
+    /* color: #9e3939; */
+    background-color: transparent;
+    /* font-weight: 800; */
+  }
+}
+/* 
+"editorBracketHighlight.foreground6": "#b37c75",
+"editorBracketHighlight.unexpectedBracket.foreground": "#be4848",
+"editorError.foreground": "#bb3e3e",
+ */
+
+div.inline-title {
+  /* move right to size of cutter */
+  translate: 48px 0;
+}

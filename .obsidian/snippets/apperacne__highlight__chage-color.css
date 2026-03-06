@@ -1,0 +1,7 @@
+.theme-light {
+  --text-highlight-bg: #FFD452;
+}
+
+.theme-dark {
+  --text-highlight-bg: #fff3a3a6;
+}

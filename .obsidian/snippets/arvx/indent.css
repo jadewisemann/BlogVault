@@ -1,0 +1,9 @@
+body  {
+  --list-indent: 1.5em;
+  --list-indent-editing: 0.75em;
+  --list-indent-source: 0;
+}
+
+.cm-formatting-list-ol, .cm-formatting-list-ul{
+    margin-right:.2em;
+}

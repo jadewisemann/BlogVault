@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+. tree-item.tree-item-inner {
+  font-family: "Fira Code";
+}
+.tree-item-inner.nav-folder-title-content,
+.tree-item-inner.nav-file-title-content
+{
+  font-family: "Fira Code";
+  font-weight: 500  ;
+}
+.tree-item:hover {
+}
+.tree-item-self.nav-folder-title {
+}
+.tree-item-self.nav-folder-title::before  {
+}
+.tree-item-self.nav-file-title::before {}
+.tree-item-self.nav-file-title.is-active {}

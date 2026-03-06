@@ -1,0 +1,8 @@
+/* internal link */
+.cm-hmd-internal-link > a {
+  color: oklch(45% 0.45 300)!important;
+}
+/* external link */
+.cm-link > a {
+  /* color: oklch(57.56% 0.158 296.25)!important; */
+}

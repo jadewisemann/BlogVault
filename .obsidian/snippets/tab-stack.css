@@ -1,0 +1,15 @@
+body {
+  --tab-stacked-pane-width: 100vw;
+  --tab-stacked-header-width: 52px;
+  --tab-stacked-font-size: var(--font-ui-medium);
+  --tab-stacked-font-weight: 800;
+  /* --tab-stacked-text-align: start; */
+  --tab-stacked-shadow: -2px 0 2px 0 rgba(0, 0, 0, 0.1);
+}
+.workspace-tab-header-inner-title {
+  font-family: "Fira Code", Interop;
+}
+
+div.workspace-tab-header-inner-icon {
+  display: none!important;
+}

@@ -1,0 +1,29 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "files",
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A5",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 58
+  },
+  "tabSize": 2,
+  "propertiesInDocument": "source",
+  "useTab": true,
+  "readableLineLength": true,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "smartIndentList": true,
+  "showIndentGuide": true,
+  "showUnsupportedFiles": true,
+  "focusNewTab": true
+}

@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "2d8940fbcdfe346b",
+    "type": "split",
+    "children": [
+      {
+        "id": "243c415667a76a42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9fe91aba3bf4dd2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2286b2aabb5554fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "571048f9158a29ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7d1f3af1020ec55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6832ed9187d17240",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "교육 이수",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "0c4811bae7924c9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "10cab244dd219e30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ae1db835f67ac1b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/2026-02-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-02-10 의 백링크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "open-vscode:VSCode": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "b7d1f3af1020ec55",
+  "lastOpenFiles": [
+    "blog",
+    "notes/[[] for _ in range(n)].md",
+    "notes/$coding_test(problem).md",
+    "notes/git pull.md",
+    "notes/데이크스트라, 다익스트라.md",
+    "notes/_1 daily note/2026-03-04.md",
+    "notes/$computer_science(algorithm)최단거리 탐색.md",
+    "notes/$algorithm(최단거리)floyd-washer.md",
+    "notes/$algorithm(최단거리)dijkstra.md",
+    "notes/$algorithm(최단거리)bellman-ford.md",
+    "notes/$computer_science.md",
+    "notes/$discrete_mathmetics.md",
+    "notes/$PRJ(dev)JS_Deep_Dive_study.md",
+    "$03 area.md",
+    "$02 brain.md",
+    "notes/$coding_test(algorithm)dijkstra.md",
+    "notes/_1 daily note/2026-02-24.md",
+    "notes/$coding_test.md",
+    "notes/_1 daily note/2026-02-16.md",
+    "notes/_1 daily note/2026-02-17.md",
+    "notes/$computer_science(ADT)deque.md",
+    "notes/$computer_science(ADT).md",
+    "notes/$computer_science(ADT)우선순위_큐.md",
+    "notes/$computer_science(자료구조).md",
+    "notes/$computer_science(algorithm).md",
+    "notes/▶ How do QR codes work (I built one myself to find out).md",
+    "files/049f94571643f201f2e1ed4d0ae08054_MD5.png",
+    "files/d861200b8b73264e2fe14cc9045c2017_MD5.png",
+    "files/2af146740d161894a5ce9ae42c355d8e_MD5.png",
+    "files/2ab2fe7a5999d1ee83310fe05c60c646_MD5.png",
+    "files/51a355f18273bbe0f783f98c1c6e1498_MD5.png",
+    "files/eea8ab37a3fd6c9639c2743bb744c01c_MD5.png",
+    "files/39e18127cdffaafb051f8d971fbccc75_MD5.png",
+    "files/17a9ec849507fbf1d6a3612818530268_MD5.png",
+    "files/2aa2ec6020d4dad60b0a271fbbe275d4_MD5.png",
+    "files/81f0c77e937a7af330d30d9a000b80ae_MD5.png",
+    "code/백준(DP^골드4)펠린드롬^10942.py",
+    "code",
+    "ps_everyday",
+    "files/programmers (dfs lv2) 타겟넘버.py",
+    "notes/_clippings/long-black",
+    "notes/_clippings",
+    "notes/_5 old project/EST 4기 FE 2팀",
+    "notes/_5 old project",
+    "notes/_1 daily note",
+    "건강체"
+  ]
+}

@@ -1,0 +1,23 @@
+.callout[data-callout="tldr"] {
+    --callout-color: 107, 137, 165;
+    --callout-icon: book-open-check;
+}
+
+.callout[data-callout="code"] {
+  --callout-color: 34, 34, 34;  /* 원하는 RGB 값 */
+  --callout-icon: lucide-code;   /* 아이콘 설정 */
+  
+  background-color: rgba(var(--callout-color), 0.05);
+  color: rgb(var(--callout-color));
+  
+  /* padding: 1em; */
+  /* border-radius: 4px; */   
+  /* margin: 1em 0; */
+}
+  
+/* 제목에만 모노스페이스 폰트 적용 */
+.callout[data-callout="code"] .callout-title {
+  /* font-family: 'JetBrain mono', Consolas, Menlo, monospace; */
+  font-family: 'Cascadia Code', Consolas, Menlo, monospace;
+  text-transform: lowercase;
+}

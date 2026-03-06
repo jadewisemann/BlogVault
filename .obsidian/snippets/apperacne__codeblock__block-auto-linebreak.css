@@ -1,0 +1,8 @@
+.HyperMD-codeblock {
+    white-space: nowrap;
+}
+
+.HyperMD-codeblock.HyperMD-codeblock-bg.cm-line {
+    width: 130%;
+    max-width: 130% !important
+}

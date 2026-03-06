@@ -1,0 +1,7 @@
+.HyperMD-codeblock .cm-indent, 
+.HyperMD-codeblock .indentation-guide { 
+    border-right: none !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
+    --indentation-guide-color: transparent !important;
+}

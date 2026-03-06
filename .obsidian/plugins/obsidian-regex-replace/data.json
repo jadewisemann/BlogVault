@@ -1,0 +1,10 @@
+{
+  "findText": "<div[^>]*>\\s*<img\\s+src=\"([^\"]+)\"\\s+alt=\"([^\"]*)\"\\s*>\\s*</div>",
+  "replaceText": "![$2]($1)",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

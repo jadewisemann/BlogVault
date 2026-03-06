@@ -1,0 +1,12 @@
+{
+  "name": "Paper Redux",
+  "version": "1.0.0",
+  "minAppVersion": "0.16.0",
+  "description": "A custom theme for Obsidian that enhances readability and aesthetics with a clean, modern design.",
+  "author": "jade wisemann",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "publish": false,
+  "repository": "",
+  "screenshot": ""
+}
