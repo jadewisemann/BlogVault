@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "77091d3120828d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tesisy.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tesisy"
+            }
+          },
+          {
             "id": "50c51f83fa42b8d3",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +262,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "df9b6f1e51f1c0ee",
+  "active": "77091d3120828d03",
   "lastOpenFiles": [
-    "first note.md",
     "formatting test.md",
+    "tesisy.md",
+    "first note.md",
     "link test.md"
   ]
 }
