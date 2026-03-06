@@ -102,9 +102,33 @@
               "icon": "lucide-file",
               "title": "link test"
             }
+          },
+          {
+            "id": "d85bef635cb6a549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -262,10 +286,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "77091d3120828d03",
+  "active": "d85bef635cb6a549",
   "lastOpenFiles": [
-    "formatting test.md",
+    "test.md",
     "tesisy.md",
+    "formatting test.md",
     "first note.md",
     "link test.md"
   ]
